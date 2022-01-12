@@ -1,4 +1,4 @@
-﻿EX SELECT
+EX SELECT
 
 
 1. Selezionare tutti gli studenti nati nel 1990 (160)
@@ -14,7 +14,7 @@ WHERE `date_of_birth` BETWEEN '1990-01-01' AND '1990-12-31'
 
 SELECT * 
 FROM `courses`
-WHERE `cfu` > '10'
+WHERE `cfu` > 10
 
 
 3. Selezionare tutti gli studenti che hanno più di 30 anni 
